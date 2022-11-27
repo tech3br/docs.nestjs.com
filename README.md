@@ -7,7 +7,7 @@
 [linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
 [linux-url]: https://travis-ci.org/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">Uma estrutura progressiva do <a href="http://nodejs.org" target="_blank">Node.js</a> para construir aplicações eficientes e escaláveis do lado do servidor.</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -25,41 +25,41 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Descrição
 
-This project is built on top of the [Angular CLI](https://github.com/angular/angular-cli). It uses the [Dgeni documentation generator](https://github.com/angular/dgeni) to compile source documentation in markdown format into the published format. The Repository contains [docs.nestjs.com](https://docs.nestjs.com) source code, the official Nest documentation.
+Este projeto é construído em cima da [CLI Angular](https://github.com/angular/angular-cli). Ele usa o gerador de documentação [Dgeni](https://github.com/angular/dgeni) para compilar a documentação de origem em formato markdown para o formato publicado. O Repositório contém o código fonte [docs.nestjs.com](https://docs.nestjs.com), a documentação oficial do Nest.
 
-## Installing
+## Instalando
 
-Install project dependencies and start a local server with the following terminal commands:
+Instale as dependências do projeto e inicie um servidor local com os seguintes comandos no terminal:
 
 ```bash
 $ npm install
 $ npm run start
 ```
 
-Navigate to [`http://localhost:4200/`](http://localhost:4200/).
+Navegue até [`http://localhost:4200/`](http://localhost:4200/).
 
-All pages are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and located in the `content` directory.
+Todas as páginas são escritas em [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) e estão localizadas na pasta `content`.
 
-## Build
+## Construir
 
-Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Rode `npm run build` para contruir o projeto. Os artefatos de construção serão armazenados no diretório `dist/'.
 
-To run build in _watch mode_, run `npm run build:watch`. Any content changes will be recompiled and rebuilt, and the content served at [`http://localhost:4200/`](http://localhost:4200/).
+Para executar build em modo _watch_, execute `npm run build:watch`. Qualquer mudança no conteúdo será recompilada e reconstruída, e o conteúdo servido em [`http://localhost:4200/`](http://localhost:4200/).
 
-Use `npm run build:prod` for a production build.
+Utilize `npm run build:prod` para uma construção de produção.
 
-## Support
+## Apoiar
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://opencollective.com/nest).
+Nest é um projeto de código aberto licenciado pelo MIT. Ele pode crescer graças aos patrocinadores e ao apoio dos incríveis patrocinadores. Se você gostaria de se juntar a eles, por favor [leia mais aqui](https://opencollective.com/nest).
 
-## Stay in touch
+## Manter contato
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Autor - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## License
+## Licença
 
-Nest is [MIT licensed](LICENSE).
+Nest tem [MIT licenciado](LICENSE).
